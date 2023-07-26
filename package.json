@@ -1,0 +1,16 @@
+{
+  "name": "serverless-api",
+  "version": "1.0.0",
+  "description": "[root URL](https://ldtr0al35c.execute-api.us-east-1.amazonaws.com/) ## What are the routes? ![Routes](https://github.com/BasharIrani23/serverless-api/assets/129655131/8b0da8ad-ffcc-40df-a4b2-b428d3f33a52)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1422.0",
+    "dynamoose": "^3.2.0"
+  }
+}
